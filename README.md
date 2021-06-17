@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Insha-design
+- 👋 Hi, I’m Insha 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on Frontend Projects Mainly with HTML, CSS and BOOTSTRAP.
-- 📫 How to reach me : DM's are open.
-Twitter Handle: @girl_whocode
+- 💞️ I’m looking to collaborate on Frontend Projects Mainly with HTML, CSS and JavaScript.
+- 📫 How to reach me : Twitter Handle: @girl_whocode
+
 
 
 <!---
